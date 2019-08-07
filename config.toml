@@ -1,0 +1,48 @@
+baseURL = "http://renaudhager.io/"
+languageCode = "en-us"
+title = "Renaud Hager"
+theme = "coder-portfolio"
+
+[params]
+    langseparator = "|"
+    [languages]
+        [languages.en]
+            languagename = "English"
+            title = "Renaud Hager"
+            author = "Renaud Renaud"
+            info = "SENIOR DEVOPS ENGINEER"
+            description = "Renaud Hager's personal website"
+            keywords = "devops,personal,cloud"
+            avatarurl = "images/portrait.jpg"
+            [languages.en.menu]
+                [[languages.en.menu.main]]
+                name = "About"
+                weight = 1.0
+                url = "about"
+
+        [languages.fr]
+            languagename = "Français"
+            title = "Renaud Hager"
+            author = "Renaud Renaud"
+            info = "INGENIEUR SENIOR DEVOPS"
+            description = "Renaud Hager's personal website"
+            keywords = "devops,personal,cloud"
+            avatarurl = "images/portrait.jpg"
+            [languages.fr.menu]
+                [[languages.fr.menu.main]]
+                name = "A propos"
+                weight = 1.0
+                url = "about"
+                # Social links
+    [[params.social]]
+        name = "LinkedIn"
+        weight = 3
+        url = "https://www.linkedin.com/in/renaudhager/"
+    [[params.social]]
+        name = "Github"
+        weight = 1
+        url = "https://github.com/renaudhager/"
+    [[params.social]]
+        name = "Keybase"
+        weight = 3
+        url = "https://keybase.io/renaudhager"
