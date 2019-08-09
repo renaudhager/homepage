@@ -1,4 +1,4 @@
-baseURL = "http://renaudhager.io/"
+baseURL = "https://renaudhager.io/"
 languageCode = "en-us"
 title = "Renaud Hager"
 theme = "coder-portfolio"
