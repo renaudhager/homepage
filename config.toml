@@ -5,6 +5,7 @@ theme = "coder-portfolio"
 
 [params]
     langseparator = "|"
+    faIcons = true
     [languages]
         [languages.en]
             languagename = "English"
@@ -38,11 +39,14 @@ theme = "coder-portfolio"
         name = "LinkedIn"
         weight = 3
         url = "https://www.linkedin.com/in/renaudhager/"
+        icon = "fab fa-linkedin fa-2x"
     [[params.social]]
         name = "Github"
         weight = 3
         url = "https://github.com/renaudhager/"
+        icon = "fab fa-github fa-2x"
     [[params.social]]
         name = "Keybase"
         weight = 3
         url = "https://keybase.io/renaudhager"
+        icon = "fab fa-keybase fa-2x"
