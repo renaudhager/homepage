@@ -2,6 +2,7 @@ baseURL = "https://renaudhager.io/"
 languageCode = "en-us"
 title = "Renaud Hager"
 theme = "coder-portfolio"
+googleAnalytics = "UA-145402503-1"
 
 [params]
     langseparator = "|"
