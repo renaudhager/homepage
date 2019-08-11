@@ -23,7 +23,7 @@ theme = "coder-portfolio"
         [languages.fr]
             languagename = "Français"
             title = "Renaud Hager"
-            author = "Renaud Renaud"
+            author = "Renaud Hager"
             info = "INGENIEUR SENIOR DEVOPS"
             description = "Renaud Hager's personal website"
             keywords = "devops,personal,cloud"
