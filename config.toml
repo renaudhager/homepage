@@ -42,6 +42,11 @@ googleAnalytics = "UA-145402503-1"
         url = "https://www.linkedin.com/in/renaudhager/"
         icon = "fab fa-linkedin fa-2x"
     [[params.social]]
+        name = "Certification"
+        weight = 3
+        url = "https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2018-08-09&ci=AWS00582798"
+        icon = "fas fa-certificate fa-2x"
+    [[params.social]]
         name = "Github"
         weight = 3
         url = "https://github.com/renaudhager/"
